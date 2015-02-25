@@ -1425,3 +1425,27 @@
 		#cta .formerize-placeholder {
 			color: rgba(255, 255, 255, 0.75) !important;
 		}
+
+
+/* custom changes */
+
+.hint {
+    color: #999;
+    position: relative;
+    margin: 0 0 0 0;
+    font-size: 0.8em;
+    margin-top: 0em;
+    line-height: 1.5em;
+}
+
+.italic
+{
+    font-style: italic;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+
