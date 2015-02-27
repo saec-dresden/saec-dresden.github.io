@@ -90,9 +90,13 @@
 
 /* Banner */
 
-	#banner {
-		padding: 5em 1em 4em 1em;
+#banner {
+		padding: 3em 4em 7em 4em;
 	}
+
+  #banner  .actions{
+        display: none;
+    }
 
 /* Main */
 
