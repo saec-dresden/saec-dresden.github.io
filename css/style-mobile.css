@@ -81,7 +81,9 @@
 /* Banner */
 
 	#banner {
-		padding: 4em 0;
+		padding: 5em 0 13em 0;
+        background-image: url("../images/header-mobile.png");
+        margin-bottom: 0;
 	}
 
 		#banner h2 {
