@@ -1448,4 +1448,12 @@
     font-weight: bold;
 }
 
+.spaeker{
+    width: 150px;
+}
 
+.clear
+{
+    clear: both;
+    display: block;
+}
