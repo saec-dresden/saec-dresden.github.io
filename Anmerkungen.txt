@@ -2,3 +2,21 @@ http://www.wolter.biz/blog/wp-content/uploads/2008/01/sascha_wolter_20131113.jpg
 /images/header.png -> komprimieren
 Navigationsbuttons anpassen
 Durch Tracking schutz wird die Google Maps Karte ausgeblendet und es bleib ein weißer fleck -> Alternative anbieten.
+
+
+requests: 99
+transfer: 6,2MB
+time: 7,2sec
+load: 1,2sec
+Dom-Content:583ms
+
+
+
+Bilder change
+------------------
+
+requests: 99
+transfer: 6,2MB
+time: 7,2sec
+load: 1,2sec
+Dom-Content:583ms
