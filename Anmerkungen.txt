@@ -15,8 +15,11 @@ Dom-Content:583ms
 Bilder change
 ------------------
 
-requests: 99
-transfer: 6,2MB
-time: 7,2sec
-load: 1,2sec
-Dom-Content:583ms
+requests: 112
+transfer: 1,4MB
+time: 6,45sec
+load: 560ms
+Dom-Content:197ms
+
+
+
