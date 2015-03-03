@@ -1,0 +1,4 @@
+http://www.wolter.biz/blog/wp-content/uploads/2008/01/sascha_wolter_20131113.jpg HTTP/1.1 -> komprimieren
+/images/header.png -> komprimieren
+Navigationsbuttons anpassen
+Durch Tracking schutz wird die Google Maps Karte ausgeblendet und es bleib ein weißer fleck -> Alternative anbieten.
