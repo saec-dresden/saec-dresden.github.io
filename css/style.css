@@ -1463,7 +1463,7 @@
 /*Karte ein ausblenden*/
 
     #map_orig{
-    display: none;
+    display: normal;
     height: 25em;
     width: 100%;
     
