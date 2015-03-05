@@ -1459,3 +1459,15 @@
     clear: both;
     display: block;
 }
+
+/*Karte ein ausblenden*/
+
+    #map_orig{
+    visibility: visible;
+    height: 25em;
+    width: 100%;
+    
+}
+    #map_link{
+    visibility: hidden;
+}

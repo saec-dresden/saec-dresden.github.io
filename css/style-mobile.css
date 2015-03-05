@@ -131,3 +131,15 @@
 			margin-left: 0;
 			padding-left: 0;
 		}
+
+/*Karte ein ausblenden*/
+
+    #map_orig{
+    visibility: hidden;
+    height: 0px;
+    width: 0px;
+    
+}
+    #map_link{
+    visibility: visible;
+}

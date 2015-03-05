@@ -109,3 +109,15 @@
 	#cta {
 		padding: 2.5em 1em 3em 1em;
 	}
+
+/*Karte ein ausblenden*/
+
+    #map_orig{
+    visibility: hidden;
+    height: 0px;
+    width: 0px;
+    
+}
+    #map_link{
+    visibility: visible;
+}
