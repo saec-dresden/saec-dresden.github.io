@@ -135,7 +135,7 @@
 /*Karte ein ausblenden*/
 
     #map_orig{
-    visibility: hidden;
+    display: none;
     height: 0px;
     width: 0px;
     
