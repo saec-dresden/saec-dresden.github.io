@@ -20,9 +20,13 @@
 		
                 <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
 		<script src="js/deployscripts/app.min.js"></script>
+        <script src="js/map.js"></script>        
+   
+
+<!--        <script src="js/Karte_ausblenden.js"></script>-->
 		
 	</head>
-	<body class="landing" onload="preFill()">
+	<body class="landing" onload="preFill(); check();">
 
 		<!-- Header -->
 			<header id="header" class="alt">
@@ -443,8 +447,10 @@
                                     Bei Anreise mit dem Auto besteht die Möglichkeit, entweder über die Abfahrt Dresden Neustadt oder die Abfahrt Dresden Altstadt die Autobahn zu verlassen.
                                     Für alle mit dem Auto anreisenden Gäste wurde der Parkplatz 7 reserviert.
                                 </p>
-
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2507.14633742381!2d13.715442135436877!3d51.068848637262654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4709cfa13b27c6e7%3A0x9b9ce8f532c212a2!2sMessering+6!5e0!3m2!1sde!2sde!4v1425054397847" width="100%" frameborder="0" style="border:0; height:25em"></iframe>
+                                <div id="map-div" width="100%" style="border:0; height:25em"></div>
+                                <p id="map-link" style="display: none;">
+                                    <a href="https://www.google.com/maps/place/Messering+6,+01067+Dresden,+Deutschland/@51.068859,13.716052,16z/data=!4m2!3m1!1s0x4709cfa13b27c6e7:0x9b9ce8f532c212a2?hl=de-DE">zur Google Maps Karte</a>
+                                </p>
                                 <p>
                                     <h4>Kontakt und Adresse der Location</h4>
 
