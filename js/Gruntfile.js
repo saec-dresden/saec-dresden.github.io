@@ -23,7 +23,7 @@ module.exports = function(grunt) {
                 stripBanners: true
             },
             dist: {
-                src: ['<%= meta.srcPath %>jquery.min.js', '<%= meta.srcPath %>jquery.dropotron.min.js', '<%= meta.srcPath %>jquery.scrollgress.min.js', '<%= meta.srcPath %>skel.min.js', '<%= meta.srcPath %>skel-layers.min.js', '<%= meta.srcPath %>init.js'],
+                src: ['<%= meta.srcPath %>jquery.min.js', '<%= meta.srcPath %>jquery.dropotron.min.js', '<%= meta.srcPath %>jquery.scrollgress.min.js', '<%= meta.srcPath %>skel.min.js', '<%= meta.srcPath %>skel-layers.min.js', '<%= meta.srcPath %>init.js', '<%= meta.srcPath %>map.js'],
                 dest: '<%= meta.deployPath %>scripts/app.js'
             }
         }
